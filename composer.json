@@ -1,9 +1,9 @@
 {
-    "name": "intunex/opengraph",
+    "name": "fusonic/opengraph",
     "description": "PHP library for consuming and publishing Open Graph resources.",
     "keywords": ["opengraph"],
     "type": "library",
-    "homepage": "https://github.com/Intunex/opengraph",
+    "homepage": "https://github.com/fusonic/fusonic-opengraph",
     "license": "MIT",
     "authors": [
         {
